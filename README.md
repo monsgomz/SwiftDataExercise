@@ -3,6 +3,7 @@
 
 Welcome to the Swift Data Tutorial! In this tutorial, you will learn how to work with data in Swift, one of the fundamental aspects of iOS and macOS app development.
 
+![Swift Data](SwiftData.png)
 
 
 ## Features
