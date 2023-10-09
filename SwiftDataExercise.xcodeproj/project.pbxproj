@@ -11,6 +11,7 @@
 		C25AC5B62AD43DE100AC36E1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25AC5B52AD43DE100AC36E1 /* ContentView.swift */; };
 		C25AC5B82AD43DE200AC36E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25AC5B72AD43DE200AC36E1 /* Assets.xcassets */; };
 		C25AC5BB2AD43DE200AC36E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C25AC5BA2AD43DE200AC36E1 /* Preview Assets.xcassets */; };
+		C25AC5C22AD43E5300AC36E1 /* Expense.swift in Sources */ = {isa = PBXBuildFile; fileRef = C25AC5C12AD43E5300AC36E1 /* Expense.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C25AC5B52AD43DE100AC36E1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C25AC5B72AD43DE200AC36E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C25AC5BA2AD43DE200AC36E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C25AC5C12AD43E5300AC36E1 /* Expense.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expense.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C25AC5B32AD43DE100AC36E1 /* SwiftDataExerciseApp.swift */,
 				C25AC5B52AD43DE100AC36E1 /* ContentView.swift */,
+				C25AC5C12AD43E5300AC36E1 /* Expense.swift */,
 				C25AC5B72AD43DE200AC36E1 /* Assets.xcassets */,
 				C25AC5B92AD43DE200AC36E1 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C25AC5C22AD43E5300AC36E1 /* Expense.swift in Sources */,
 				C25AC5B62AD43DE100AC36E1 /* ContentView.swift in Sources */,
 				C25AC5B42AD43DE100AC36E1 /* SwiftDataExerciseApp.swift in Sources */,
 			);
